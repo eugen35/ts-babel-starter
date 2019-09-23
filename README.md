@@ -1,4 +1,7 @@
 # TypeScript-Babel-Starter
+from https://github.com/microsoft/TypeScript-Babel-Starter
+
+with https://www.jetbrains.com/help/webstorm/running-and-debugging-typescript.html
 
 # What is this?
 
